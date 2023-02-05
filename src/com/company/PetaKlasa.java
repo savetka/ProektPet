@@ -9,8 +9,6 @@ public class PetaKlasa {
         System.out.println("Hello world");
         System.out.println("Sara");
         sayHello("Daniel");
-
-        System.out.println("Learning");
     }
 
     public static void sayHello(String name){
