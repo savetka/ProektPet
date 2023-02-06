@@ -10,6 +10,7 @@ public class PetaKlasa {
         System.out.println("Sara");
         sayHello("Daniel");
         System.out.println("new commit-amend");
+        System.out.println("Test new branch");
     }
 
     public static void sayHello(String name){
