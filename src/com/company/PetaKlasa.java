@@ -11,6 +11,7 @@ public class PetaKlasa {
         sayHello("Daniel");
         System.out.println("new commit-amend");
         System.out.println("branch");
+        System.out.println("Autotest");
     }
 
     public static void sayHello(String name){
